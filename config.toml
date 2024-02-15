@@ -16,7 +16,7 @@ phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
-profileTitle="Full Stack Java Developer"
+profileTitle = "Full Stack Java Developer"
 
 
 [params.google]
