@@ -1,4 +1,4 @@
-title = "Sathish Kumar Thiyagarajan"
+title = "Saurav  Rawat"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -8,14 +8,15 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
-favicon = "/favicon.ico"
-firstName = "Sathish Kumar"
-lastName = "Thiyagarajan"
+address = "Uttarakhand, India"
+favicon = "/favicon.ico"=
+firstName = "Saurav "
+lastName = "Rawat"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
+profileTitle="Full Stack Java Developer"
 
 
 [params.google]
@@ -24,7 +25,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/sathishkumarRawat/"
 name = "LinkedIn"
 
 [[params.handles]]
