@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Uttarakhand, India"
-favicon = "/favicon.ico"=
+favicon = "/favicon.ico"
 firstName = "Saurav "
 lastName = "Rawat"
 phone = "1-555-555-1234"
@@ -25,11 +25,11 @@ profileTitle = "Full Stack Java Developer"
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarRawat/"
+link = "https://www.linkedin.com/in/rawatsaurav/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/rawatsaurav01/"
 name = "GitHub"
 
 [outputs]
